@@ -1,4 +1,4 @@
-#My Technical Skills
+###My Technical Skills
 
 These are my prominent technical skills
 
