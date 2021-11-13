@@ -8,4 +8,4 @@ Scripting Languages - Bash, python, sed, awk
 
 Cloud Platfoms - AWS , GCP, Azure
 
-Containers - Docker, Kubernetes
+Containers - Docker, KubernetesAfter
